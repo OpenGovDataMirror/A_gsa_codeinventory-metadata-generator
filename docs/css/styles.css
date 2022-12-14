@@ -1,0 +1,17 @@
+textarea {
+  height: 32rem;
+  font-size: smaller;
+  font-family: monospace;
+}
+
+hr {
+  margin: 2em 0;
+}
+
+.select2-results {
+  display: none;
+}
+
+#validation {
+  display: none;
+}
